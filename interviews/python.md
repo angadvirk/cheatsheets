@@ -1,6 +1,6 @@
 # Python
 
-## Performing an HTTP Request in Python
+### Performing an HTTP Request in Python
 
 First, install `requests` library:
 ```shell
