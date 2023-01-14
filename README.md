@@ -1,2 +1,2 @@
 # cheatsheets
-Notes &amp; reminders on how to do things.
+Notes &amp; reminders relating to various tech things
