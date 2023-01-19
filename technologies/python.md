@@ -38,8 +38,7 @@ Employee.fullname(emp_1) # explicitly pass emp_1 as self
 - Variables that are shared among all instances of a class.
 - Data that is the same for each instance can be put in a class variable.
 
-```
-
+(To be continued...)
 
 ### Performing an HTTP Request in Python
 
